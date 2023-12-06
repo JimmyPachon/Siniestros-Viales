@@ -4,11 +4,11 @@ Este es un proyecto centrado en el análisis de los accidentes ocurridos en la C
 
 **Vehículos más afectados**
 
-<p align="center">
 
-        <img src= "Imagenes/Vehiculo_Victima.png"
 
-</p>
+![Vehiculo_Victima](https://github.com/JimmyPachon/Siniestros-Viales/assets/140009843/a6095613-e81d-4573-af9d-0cfb9c6b453e)
+
+
 
 La mayor parte de las víctimas son motociclistas y peatones, la moto tiene una gran fama de ser un vehículo que sufre muchos accidentes sobretodo si se maneja imprudentemente. Sin embargo no se puede concluir que sea más peligroso que un auto, ya que la moto es más económica y suele ser la preferencia de muchos más usuarios; lo que si podemos hacer es proponer una solución para evitar más accidentes.
 
